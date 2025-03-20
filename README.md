@@ -7,7 +7,7 @@
 - 💡 Yazılım ve **kişisel gelişim** ile ilgili öğrenmeye devam ediyorum.  
 
 📌 **Projelerime göz atın:**  
-👉 [Weather App](https://github.com/enginyz?tab=repositories)  
+👉 [Repositories](https://github.com/enginyz?tab=repositories)  
 
 📫 Bana ulaşmak için:  
 💼 **LinkedIn:** [linkedin.com/in/enginyz](https://linkedin.com/in/enginyz)  
