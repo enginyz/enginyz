@@ -1,9 +1,9 @@
 ﻿# Merhaba, ben Engin! 👋  
 
-🚀 **Frontend & Full Stack Developer Yolculuğum Devam Ediyor!**  
+🚀 **Full Stack Developer Yolculuğum Devam Ediyor!**  
 
-- 🌱 **JavaScript, React ve Full Stack geliştirme öğreniyorum.**  
-- 👨‍💻 GitHub profilimde çeşitli **Front-End projeleri** paylaşmayı hedefliyorum!  
+- 🌱 **HTML,TailwindCSS ve C# ile Full Stack geliştirme öğreniyorum.**  
+- 👨‍💻 GitHub profilimde çeşitli **Temel eğitim projeleri** paylaşmayı hedefliyorum!  
 - 💡 Yazılım ve **kişisel gelişim** ile ilgili öğrenmeye devam ediyorum.  
 
 📌 **Projelerime göz atın:**  
@@ -15,4 +15,5 @@
 ---
 
 🌟 **GitHub’da destek olmak için projelerimi ⭐ yıldızlamayı unutmayın!**  
+
 
