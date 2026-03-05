@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-* [span_0](start_span)🎓 **Mechanical Engineer** turned into a passionate **Software Developer**.[span_0](end_span)
+* [(start_span)]🎓 **Mechanical Engineer** turned into a passionate **Software Developer**.[(end_span)]
 * [span_1](start_span)🛡️ Currently working as a **Junior Software Support Specialist & Developer** at Atlas University.[span_1](end_span)
 * [span_2](start_span)⚙️ Deeply involved in **.NET Core & C#** projects and **IAM (Identity & Access Management)** solutions.[span_2](end_span)
 * [span_3](start_span)💃 Outside of coding, I'm an **Argentine Tango** enthusiast and a **Hang Gliding** beginner pilot[span_3](end_span)!
@@ -18,3 +18,4 @@
 # 📫 Get in Touch
 * [span_11](start_span)📧 Email: enginyildiz33@gmail.com[span_11](end_span)
 * 🔗 [LinkedIn Profile](https://www.linkedin.com/in/enginyildiz)
+
