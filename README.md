@@ -12,10 +12,11 @@
 
 # 📈 Current Focus
 - 🏗️ Building a software inventory management system with **.NET Core**.
--🧪 Managing debugging and testing for the **Human Resources project**.
+- 🧪 Managing debugging and testing for the **Human Resources project**.
 - 🔍 Analyzing and troubleshooting complex system errors for effective solutions.
 
 # 📫 Get in Touch
 - 📧 Email: enginyildiz33@gmail.com
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/enginyildiz)
+
 
